@@ -1,0 +1,7 @@
+D:\Belgeler\Visual Studio 2019\Projects\Istemci\Istemci\bin\Debug\Istemci.exe.config
+D:\Belgeler\Visual Studio 2019\Projects\Istemci\Istemci\bin\Debug\Istemci.exe
+D:\Belgeler\Visual Studio 2019\Projects\Istemci\Istemci\bin\Debug\Istemci.pdb
+D:\Belgeler\Visual Studio 2019\Projects\Istemci\Istemci\obj\Debug\Istemci.csprojAssemblyReference.cache
+D:\Belgeler\Visual Studio 2019\Projects\Istemci\Istemci\obj\Debug\Istemci.csproj.CoreCompileInputs.cache
+D:\Belgeler\Visual Studio 2019\Projects\Istemci\Istemci\obj\Debug\Istemci.exe
+D:\Belgeler\Visual Studio 2019\Projects\Istemci\Istemci\obj\Debug\Istemci.pdb

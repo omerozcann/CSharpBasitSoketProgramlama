@@ -1,0 +1,6 @@
+D:\Belgeler\Visual Studio 2019\Projects\Sunucu\Sunucu\bin\Debug\Sunucu.exe.config
+D:\Belgeler\Visual Studio 2019\Projects\Sunucu\Sunucu\bin\Debug\Sunucu.exe
+D:\Belgeler\Visual Studio 2019\Projects\Sunucu\Sunucu\bin\Debug\Sunucu.pdb
+D:\Belgeler\Visual Studio 2019\Projects\Sunucu\Sunucu\obj\Debug\Sunucu.csproj.CoreCompileInputs.cache
+D:\Belgeler\Visual Studio 2019\Projects\Sunucu\Sunucu\obj\Debug\Sunucu.exe
+D:\Belgeler\Visual Studio 2019\Projects\Sunucu\Sunucu\obj\Debug\Sunucu.pdb
